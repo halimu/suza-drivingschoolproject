@@ -1,0 +1,173 @@
+/*body*/
+body {
+  background: #fefe;
+  font-family: sans-serif;
+}
+/*header*/
+header{
+  overflow: hidden;
+  background: url(../img/header.png) repeat;
+ /* background: rgba(0,0,0,0.4);*/
+}
+
+header .logo {
+  float:left;
+  text-align: center;
+}
+header .sign {
+  padding-left: 74px;
+}
+
+}
+header .nav {
+  float: left;
+  background: rgba(0,0,0,0.8);
+  font-family:'Helvetica Neue', sans-serif;
+  margin-left: 45px;
+  margin-top: 30px;
+}
+.nav ul li {
+  list-style: none;
+  margin-left: 30px;
+  padding-left: 24px;
+  display: inline;
+  font-size: 18px;
+}
+
+a:hover {
+  color:#DAA520;
+}
+.carri {
+  overflow: hidden;
+}
+.carri  {
+  float: right;
+  background: rgba(165,42,42,0.7);
+  width: 268px;
+  padding: 0 8px;
+  margin-top: 12px;
+  border-radius: 12px;
+  box-shadow: 2px 2px 7px orange;
+  letter-spacing: .03em; 
+  margin-right: 4px;
+}
+.carri {
+  padding: 0px 0px 12px 10px;
+  letter-spacing: .05em;
+  line-height: 30px;
+height:508px; 
+}
+
+/*Main*/
+.main {
+  overflow: hidden;
+  background: #dede;
+} 
+.main {
+  width: 90%;
+  margin: auto;
+  font-family: sans-serif, arial,'Trebuchet MS';
+}
+.right {
+  margin-top: 20px;
+  overflow: hidden;
+}
+.right{
+  letter-spacing: .04em;
+  line-height: 24px;
+  float: right;
+  width:100%;
+  margin: 0px 0px 0px -10px;
+  padding-right: 8px;
+  font-size: 14px;
+ }
+.right h3, h4 {
+  background: none #102;
+  color:#fefa;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: .04em;
+  line-height: 35px;
+  text-indent: 12px;
+}
+ .tip{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 2px 2px  4px red;
+}
+
+.left {
+  float: left;
+  overflow: hidden;
+  background: #efe;
+  width: 70%;
+  margin-left: 50px
+}
+.left ul li {
+  list-style: none;
+  display: block;
+  padding: 0 8px 6px 8px;
+}
+.left h3 {
+  color: red;
+  text-align: center;
+  background: none #102;
+  height: 46px;
+  letter-spacing: .05em;
+  line-height: 35px;
+}
+.text{
+  padding: 0 6px 0 12px;
+  letter-spacing: .05em;
+  line-height: 30px;
+  font-family: sans-serif, arial, Helvetica;
+}
+
+
+
+#texts {
+  padding: 0 6px 0 30px;
+  letter-spacing: .05em;
+  line-height: 30px;
+}
+
+footer {
+  overflow: hidden;
+  background: #808080;
+  text-align:center;
+}
+footer {
+  margin-bottom: -12px;
+  text-align: center;
+}
+.cont li {
+  list-style: none;
+  display: inline;
+  padding-left: 24px;
+
+}
+/*Final*/
+.final {
+  background: url(../img/header.png) ;
+  overflow: hidden;
+}
+.final ul li {
+  float: left;
+  list-style: none;
+  padding:0 12px;
+  display: block;
+}
+.final a{
+  text-decoration: none;
+}
+.final p {
+  float: right;
+  margin:-19px 12px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+/*Coded by ___Rashid Mabula & Hussein Kapuya from DCS 2018 SUZA*/

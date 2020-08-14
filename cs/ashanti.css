@@ -1,0 +1,160 @@
+
+body {
+	background: rgb(245,222,179);
+	margin: auto;
+	width: 940px;
+	font-family: sans-serif, arial, Helvetica;
+
+}
+
+ 
+.listo {
+	text-align: center;
+	padding: 5px 10px 5px 10px;
+	background: #d1e5a4;
+	margin-bottom: 10px;
+}
+.listo ul li {
+	display: inline;
+	padding-right: 30px;
+	padding-left: 20px;
+}
+.listo li a:hover, .listo li#selected a {
+	color: red;
+}
+ a {
+	text-decoration: none;
+}
+.pic {
+	float: right;
+	width: 680px;
+	margin-bottom: 5px;
+}
+.orange {
+	float: left;
+	background: #efe3ab;
+	width: 260px;
+	height: 400px;
+	text-align: 1px;
+	margin-bottom: 5px;	
+}
+
+.orange h1, h4, p{
+	margin-left: 15px;
+	margin-right: 10px;
+}
+.orange h4 {
+	padding-top: 8px;
+}
+.orange p {
+	padding-right: 2px;
+}
+.mika {
+	width: 268px;
+	float: left;
+	padding-top: 5px;
+	margin-left: 8px;
+	height: 90px;
+	margin-bottom: 10px;
+	font-family: 'exoextralight';
+}
+.mika h3 {
+	margin-left: 13px;
+	padding-bottom: -50px;
+	color:orange;
+}
+
+.tiger img {
+	float: left;
+	margin-right: 4px;
+	padding-top: 28px;
+	margin-left: px;
+	margin-bottom: 10px;
+	
+}
+.note h3 {
+	margin-left: 13px;
+	padding-bottom: -50px;
+	color:orange;
+} 
+.note {
+	width: 268px;
+	float: left;
+	padding-top: 5px;
+	height: 90px;
+	margin-bottom: 10px;
+	font-family: 'exoextralight';
+}
+
+.ghost img {
+	float: left;
+	margin-right: 8px;
+	margin-left: 4px;
+	padding-top: 28px;
+	margin-bottom: 10px;
+}
+.quick {
+	margin-top: 600px;
+	text-align: center;
+	font-family: sans-serif;
+	padding-bottom: -12656px;
+}
+.lea  {
+	text-decoration: none;
+	display: inline-block;
+	float: left;
+	background: ;
+	width: 313px;
+}
+.lea a {
+	text-decoration: underline;
+}
+.vila {
+	text-decoration: none;
+	display: inline-block;
+	float: left;
+	background: ;
+	width: 310px;
+}
+.vila a {
+	text-decoration: underline;
+}
+.vila img {
+	float: left;
+	margin-top: 27px;
+}
+.link a {
+	text-decoration: underline;
+}
+.link {
+	text-decoration: none;
+	display: inline-block;
+	float: left;
+	background: ;
+	width: 316px;
+}
+.link img {
+	float: left;
+	margin-top: 27px;
+}
+.quick {
+	margin-bottom: -4px;
+	font-size: 26px;
+}
+
+footer {
+	clear: both;
+}
+.mwisho {
+	text-align: center;
+	background: #d1e5a4;
+	padding-top: 16px;
+	overflow: hidden;
+}
+.mwisho a {
+	padding-right: 2px;
+	margin-bottom: 4px;
+}
+.mwsho {
+	clear: both;
+}
