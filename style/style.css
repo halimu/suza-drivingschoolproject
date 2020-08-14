@@ -1,0 +1,56 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a, li {
+	text-decoration: none;
+	list-style: none;
+}
+.loginBody {
+	margin: ;
+	padding: 20px;
+	height: 50%;
+}
+
+.regBody {
+	padding: 20px 20px 50px 20px;
+	height: 50%;
+    display: block;
+}
+
+.form {
+	float: right;
+    width: 45%;
+    overflow: auto;
+    padding: 14px 20px;
+	margin: 45px 10px;
+    border: solid 1px #0000ff;
+    border-radius: 5px;
+}
+
+
+
+.loginButton {
+	text-align: center;
+	padding: 15px 5px 10px 5px;
+
+}
+
+button {
+	padding: 10px 20px 10px 20px;
+	background-color: #0000ff;
+	color: #fff;
+	border-radius: 10px;
+}
+
+button:hover {
+	background-color: #fff;
+	color: #000;	
+}
+
+nav li {
+	float: left;
+	margin: 5px 0px 5px 115px;
+
+}
+
